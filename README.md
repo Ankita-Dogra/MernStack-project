@@ -25,7 +25,7 @@ Step-by-step instructions on how to install and set up the project.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone [https://github.com/yourusername/your-repository.git](https://github.com/Ankita-Dogra/MernStack-project.git)
     ```
 2. Navigate to the project directory:
     ```bash
